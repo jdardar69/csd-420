@@ -1,0 +1,4 @@
+Java collections make programming easier.
+Sets store unique words, and maps store key value pairs.
+This file contains several words, and some words repeat.
+Java Java Java collections sets maps words unique repeat repeat order order tree hash linked array.
